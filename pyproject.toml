@@ -1,0 +1,20 @@
+[project]
+name = "gpt2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Garv Sharma", email = "garvs7002@gmail.com" }
+]
+requires-python = ">=3.15"
+dependencies = [
+    "tiktoken>=0.14.0",
+    "triton-windows>=3.9.0.post30",
+]
+
+[project.scripts]
+gpt2 = "gpt2:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"
