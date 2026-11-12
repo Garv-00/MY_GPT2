@@ -11,6 +11,15 @@ __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 
+# Files I don't want to track
+src/
+log/
+logs/
+hf_gpt2.py
+hg_gpt2.py
+edu_fineweb10B/
+hellaswag/
+
 # Training data (large / not for the repo)
 The Complete GOT.txt
 *.bin
@@ -21,9 +30,9 @@ The Complete GOT.txt
 *.pth
 *.ckpt
 *.safetensors
+*.log
 wandb/
 runs/
-logs/
 
 # Editor / OS
 .vscode/
