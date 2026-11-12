@@ -16,7 +16,7 @@ A from-scratch implementation of GPT-2 in PyTorch: data preparation, training, a
 This project uses [uv](https://github.com/astral-sh/uv) for dependency management.
 
 ```bash
-git clone [<your-repo-url>](https://github.com/Garv-00/MY_GPT2)
+git clone https://github.com/Garv-00/MY_GPT2
 cd Gpt2
 uv sync
 ```
