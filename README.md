@@ -136,4 +136,3 @@ An NVIDIA GPU with CUDA is recommended. Development and training were done on an
 - Zellers et al., **[HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830)** (2019)
 - **[FineWeb-Edu dataset](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)** (Hugging Face)
 - OpenAI GPT-2 pretrained weights (used for validation and as a baseline)
->>>>>>> 21c6415 (adding  bfloat32 precision and DPP code)
