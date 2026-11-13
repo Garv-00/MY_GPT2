@@ -128,9 +128,6 @@ An NVIDIA GPU with CUDA is recommended. Development and training were done on an
 
 ---
 
-## Notes
-
-Datasets (`edu_fineweb10B/`), logs, and model checkpoints are not tracked in git.
 <<<<<<< HEAD
 =======
 
