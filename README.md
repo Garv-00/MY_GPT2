@@ -128,11 +128,6 @@ An NVIDIA GPU with CUDA is recommended. Development and training were done on an
 
 ---
 
-<<<<<<< HEAD
-=======
-
----
-
 ## References and Resources
 
 - Vaswani et al., **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)** (2017)
